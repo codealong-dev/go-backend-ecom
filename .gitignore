@@ -1,0 +1,20 @@
+# Binaries
+/api/api
+/bin/
+*.exe
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Environment
+.env
+.env.*
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
